@@ -1,19 +1,14 @@
 ---
 layout: post
 title: "Tutorial Lengkap: Mengunduh dan Menyiapkan Apache Spark & Hadoop di Windows"
-date: 2025-06-19 09:00:00 +0800 
 categories: [Tutorial]
 tags: [Apache Spark, Apache Hadoop, Instalasi Windows, Big Data, Data Engineering, Winutils]
 author: Zainab
-cover:
-  image: /assets/images/Spark-Hadoop.png
-  alt: "Cover Tutorial Spark-Hadoop"
+image:
+    path: "/assets/Spark-Hadoop.png"
 ---
 
 # Tutorial Lengkap: Mengunduh dan Menyiapkan Apache Spark dan Apache Hadoop di Windows
-<p align="center">
-  <img src="/assets/images/Spark-Hadoop.png" alt="Gambar di tengah" width="500"/>
-</p>
 
 Selamat datang di tutorial komprehensif ini! Jika Anda ingin menjelajahi dunia Big Data di sistem operasi Windows, **Apache Spark** dan **Apache Hadoop** adalah dua *framework* fundamental yang perlu Anda instal. Hadoop menyediakan fondasi untuk penyimpanan data terdistribusi (HDFS) dan pemrosesan awal, sementara Spark menawarkan kecepatan pemrosesan data yang jauh lebih tinggi dan fleksibilitas untuk analitik kompleks.
 
