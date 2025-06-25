@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blackjack – Simple Web Card Game"
-categories: [Project, Web]
+categories: [Projects, Web]
 tags: [Game, WebApp, JavaScript, Blackjack]
 image:
     path: "/assets/Blackjack.png"
