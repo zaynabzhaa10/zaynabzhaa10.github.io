@@ -3,7 +3,6 @@ layout: post
 title: "Tutorial Lengkap: Mengunduh dan Menyiapkan Apache Spark & Hadoop di Windows"
 categories: [Tutorial]
 tags: [Apache Spark, Apache Hadoop, Instalasi Windows, Big Data, Data Engineering, Winutils]
-author: Zainab
 image:
     path: "/assets/Spark-Hadoop.png"
 ---
