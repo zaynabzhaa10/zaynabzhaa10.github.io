@@ -2,7 +2,7 @@
 layout: post
 title: "Tazkeeya – Muslim Productivity Mobile App"
 categories: [Projects, Mobile]
-tags: [Android, Productivity, Muslim App, Spirituality, Quran]
+tags: [Android, Productivity, Muslim App, Spirituality]
 image:
   path: "/assets/Tazkeeya.png"
 ---
