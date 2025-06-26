@@ -1,9 +1,15 @@
 ---
 # the default layout is 'page'
+title: Behind the Scenes
 icon: fas fa-info-circle
 order: 4
 layout: page
 ---
+
+<blockquote style="font-size: 1.1rem; font-style: italic; border-left: 4px solid #ccc; padding-left: 1rem; margin: 2rem 0;">
+  "Education is the most powerful weapon which you can use to change the world." 
+  <br><span style="display:block; text-align: right; font-weight: bold; margin-top: 0.5rem;">— Nelson Mandela</span>
+</blockquote>
 
 # 👋 Hello, I'm Zainab!
 
