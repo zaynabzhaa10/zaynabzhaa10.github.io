@@ -1,5 +1,5 @@
 ---
-title: Praktikum HDFS, Python, dan Streamlit di VS Code
+title: Visualisasi Dataset IRIS dari HDFS dengan Streamlit
 layout: post
 categories: [Blog, Tutorial]
 tags: [HDFS, Python, Streamlit]
