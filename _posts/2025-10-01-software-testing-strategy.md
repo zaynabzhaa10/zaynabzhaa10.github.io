@@ -8,7 +8,7 @@ image:
     path: "/assets/testing_strategy.png"
 ---
 
-## 🧩 Introduction
+## Introduction
 
 Software development doesn’t end after coding — it must go through a critical stage called **testing**.  
 Testing ensures that the software functions as expected, is free from major bugs, and delivers a smooth user experience.  
@@ -17,7 +17,7 @@ This article explores **Software Testing Strategies**, summarizing key concepts 
 
 ---
 
-## 🔍 What is Software Testing?
+## What is Software Testing?
 
 **Software Testing** is the process of evaluating a software product to detect defects and ensure it meets both **functional** and **non-functional** requirements.  
 Its primary purpose is to identify bugs before the software is released and to guarantee its reliability and quality.
@@ -128,6 +128,15 @@ By applying the right testing types and strategies, teams can minimize risk and 
 
 ---
 
-**Category:** `Articles / SoftwareTesting`  
-**Published by:** Kelompok 1 STQA B Sistem Informasi 2023  
+### 👥 Contributors
+
+**Kelompok 1 Sistem Informasi 2023:**
+- Athifah Nur Rahman MD (H071231016)  
+- Fadhilah Meisya Az Zahrah (H071231018)  
+- Angga (H071231020)  
+- **Zainab Muchsinin (H071231026)**  
+- Syaebatul Hamdi (H071231049)  
+- Amalia Diah Ramadhani (H071231063)  
+- Naila Mujadiah (H071231086)  
+
 **Summarized by:** Zainab Muchsinin
