@@ -159,14 +159,14 @@ Whether using PyTest, JUnit, or Jest, unit testing empowers teams to write code 
 
 ### 👥 Contributors
 
-Kelompok 5 Sistem Informasi 2023:
-Zaenab Putri Az Zakiyyah (H071231001)
-Nancy Jiwono (H071231004)
-Rudy Peter (H071231015)
-Cholyn Sharon Enos (H071231040)
-Andi Aisar Saputra Dwi Anna (H071231048)
-M. Ervin (H071231050)
-Fara Rahmasari Fahirun (H071231055)
-Harmelia Yuli Rahmatika A. (H071231079)
+- Kelompok 5 Sistem Informasi 2023:
+- Zaenab Putri Az Zakiyyah (H071231001)
+- Nancy Jiwono (H071231004)
+- Rudy Peter (H071231015)
+- Cholyn Sharon Enos (H071231040)
+- Andi Aisar Saputra Dwi Anna (H071231048)
+- M. Ervin (H071231050)
+- Fara Rahmasari Fahirun (H071231055)
+- Harmelia Yuli Rahmatika A. (H071231079)
 
 **Summarized by: Zainab Muchsinin**
