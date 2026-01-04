@@ -14,7 +14,7 @@ image:
 Dalam organisasi mahasiswa, media sosial berperan sebagai wajah utama komunikasi dan branding. Akun Instagram HIMATIKA FMIPA UNHAS menjadi sarana penyampaian informasi kegiatan, prestasi, serta pengembangan potensi mahasiswa secara visual dan komunikatif.
 
 Akun resmi Instagram dapat diakses di:  
-👉 https://www.instagram.com/himatikafmipaunhas/?hl=id
+👉 [Instagram Himatika FMIPA Unhas](https://www.instagram.com/himatikafmipaunhas/?hl=id)
 
 Pada periode kepengurusan **2025/2026**, peran **Koordinator Bidang Minat dan Bakat** bertanggung jawab dalam mengoordinasikan pengelolaan konten visual agar tetap konsisten, informatif, dan selaras dengan identitas HIMATIKA FMIPA UNHAS.
 
